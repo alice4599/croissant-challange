@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+a {
+    color: rgb(186, 186, 141);
+}
+
+.croissantPhoto {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+
+}
